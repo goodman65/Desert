@@ -21,7 +21,7 @@
 
 
 
-stage {
+stage { font-family: Fira Sans, PingFang SC; 
 
   color: #e1e1e1; }
 
@@ -409,7 +409,7 @@ box-shadow: 0 3px 12px 1px rgba(0, 0, 0, 0.5);
     
 .popup-menu-content {
 
-  padding: 8px 8px;/*16 16; */}
+  padding: 16px 16px 16px 8px;/*16 16; */}
 
 .popup-menu-item {
 
@@ -483,7 +483,7 @@ box-shadow: 0 3px 12px 1px rgba(0, 0, 0, 0.5);
 .popup-menu-ornament {
 
   text-align: right;
-  width: 2px;/*1.2em;*/ }
+  width: 0.8em;/*1.2em;*/ }
 
 .popup-separator-menu-item {
 
