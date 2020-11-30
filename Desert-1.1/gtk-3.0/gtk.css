@@ -7382,7 +7382,9 @@ treeview.view rubberband,
 
   border-radius: 5px;
   border: 1px solid alpha(@color_700,0.5); 
-  background-image: image(alpha(@color_700,0.08));}
+  background-image: image(alpha(@color_700,0.08));
+  background-color: rgba(27, 106, 203, 0.2);
+}
  
 window.background.csd > box.vertical > scrolledwindow > iconview.view.content-view:not(:hover):not(:selected) {
   
